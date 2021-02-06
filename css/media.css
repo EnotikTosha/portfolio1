@@ -282,7 +282,7 @@
 
     .header_menu ul{
         display: none;
-        background-color: #313030;
+        position: relative;
         height: 203px;
     }
 
