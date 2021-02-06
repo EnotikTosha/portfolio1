@@ -66,9 +66,14 @@
         
     }
 
+     .header_menu ul{
+        background-color: #313030;
+        
+    }
+
     .header_menu li{
         display: inline-block;
-        
+        z-index: 1;
     }
  
     .header_menu a{
